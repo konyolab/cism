@@ -51,4 +51,11 @@ FetchContent_Declare(
 FetchContent_MakeAvailable(ism)
 ```
 
+## 本リポジトリについて
+
+本ライブラリについての質問や相談は[Discussions][Discussions]から投稿することができる．
+また，疑わしい挙動やバグを発見した場合は[Issues][Issues]から報告することができる．
+
 [ISM]: https://ieeexplore.ieee.org/abstract/document/9517147
+[Discussions]: https://github.com/konyolab/cism/discussions
+[Issues]: https://github.com/konyolab/cism/issues
